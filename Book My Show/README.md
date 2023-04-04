@@ -1,5 +1,5 @@
 
-# ShowSnap
+# Book My Show
 
 * ShowSnap is a movie ticket booking system project
 * Its a backend code written using Spring-Boot
