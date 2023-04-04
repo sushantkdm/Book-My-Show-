@@ -71,7 +71,7 @@
 
 # Cancel Ticket's Confirmation Email
 
-![image](https://user-images.githubusercontent.com/98727328/223663519-28640472-e23f-4a85-a97d-f93aa0215bb3.png)
+![image]([https://user-images.githubusercontent.com/98727328/223663519-28640472-e23f-4a85-a97d-f93aa0215bb3.png](https://github.com/sushantkdm/Book-My-Show-/blob/master/cancelmail.png))
 
 
 
